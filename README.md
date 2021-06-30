@@ -10,13 +10,9 @@ years has been used along with EA Sports’ FIFA data for the teams involved to 
 classifiers which predict the results of football matches
 
 ## PROJECT OUTLINE
-<p> Our work was based on predicting the Full Time Result (i.e. Home team WIN, LOSE or DRAW)
-of an English Premier League match based on the statistics collected during the match and the
-past history of the two playing teams. </p>
-The data used for the project is a combination of real-world statistics and data from EA Sports’
-FIFA. The ‘Dataset’ section describes the data and data collection in detail. After combining and
-processing the data, we tried several models which are well known for classification tasks, for
-predicting the match result – Logistic Regression, Random Forests, Decision Trees, Multilayer
-perceptron, Support Vector Machines and a Naive Bayes classifier. We also tried K-nearest
-neighbors, but the results were not satisfactory. We have used accuracy as the metric to judge
-the performance of these different models.
+* Our work was based on predicting the Full Time Result (i.e. Home team WIN, LOSE or DRAW) of an English Premier League match based on the statistics collected during the match and the past history of the two playing teams.
+* The data used for the project is a combination of real-world statistics and data from EA Sports’ FIFA. 
+* The ‘Dataset’ section describes the data and data collection in detail.
+* After combining and processing the data, we tried several models which are well known for classification tasks, for predicting the match result – Logistic Regression, Random Forests, Decision Trees, Multilayer perceptron, Support Vector Machines and a Naive Bayes classifier.
+* We also tried K-nearest neighbors, but the results were not satisfactory.
+* Metric of evaluation - We have used accuracy as the metric to judge the performance of these different models.
